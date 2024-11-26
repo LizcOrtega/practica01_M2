@@ -9,8 +9,8 @@ body {
 }
 
 header {
-  background-color: #8b5a2b; /* Café oscuro */
-  color: white;
+  background-color: #5d4037; /* Café oscuro */
+  color: #ffffff; /* Texto blanco */
   text-align: center;
   padding: 1rem;
 }
@@ -62,7 +62,7 @@ main {
 
 /* Pseudoclases */
 .instrumento:hover {
-  background-color: #bcaaa4; /* Fondo más oscuro */
+  background-color: #daab8c; /* Fondo más oscuro */
   color: #ffffff; /* Texto blanco */
   cursor: pointer; /* Cambia el cursor a una mano */
 }

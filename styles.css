@@ -75,8 +75,8 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #8b5a2b;
-  color: white;
+  background-color: #5d4037; /* Café oscuro */
+  color: #ffffff; /* Texto blanco */
   margin-top: 1rem;
 }
 

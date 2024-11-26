@@ -3,8 +3,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f8f4f0;
-  color: #333;
+  background-color: #f4ebe2; /* Un tono suave de café claro */
+  color: #2a1d1b; /* Texto en café oscuro */
   line-height: 1.6;
 }
 
@@ -32,9 +32,10 @@ main {
   width: 30%;
   margin: 1rem;
   padding: 1rem;
-  border: 1px solid #8b5a2b;
+  border: 1px solid #8d6e63; /* Borde en tono café intermedio */
   border-radius: 5px;
   background-color: #f4e3d7; /* Café claro */
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); /* Sombra para efecto 3D */
   text-align: center;
 }
 
@@ -48,15 +49,15 @@ main {
 
 /* Colores personalizados */
 .facil {
-  background-color: rgba(210, 180, 140, 0.8); /* Tan */
+  background-color: #ffecb3; /* Amarillo claro */
 }
 
 .medio {
-  background-color: #d2b48c; /* Tan */
+  background-color: #f5b24e; /* Naranja claro */
 }
 
 .dificil {
-  background-color: #deb887; /* Burlywood */
+  background-color: #ea896c; /* Rojo claro */
 }
 
 /* Pseudoclases */

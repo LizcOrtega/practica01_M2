@@ -1,6 +1,7 @@
 /* General */
 body {
   font-family: Arial, sans-serif;
+  font-size: 18px; /* Tamaño base recomendado */
   margin: 0;
   padding: 0;
   background-color: #f4ebe2; /* Un tono suave de café claro */
@@ -17,6 +18,7 @@ header {
 
 header h1 {
   margin: 0;
+  font-size: 2.5rem; /* Tamaño grande para destacar */
 }
 
 main {
@@ -45,6 +47,7 @@ main {
 
 .instrumento p {
   margin: 0.5rem 0;
+  font-size: 1rem; /* Tamaño estándar para párrafos */
 }
 
 /* Colores personalizados */

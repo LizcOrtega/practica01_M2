@@ -62,9 +62,9 @@ main {
 
 /* Pseudoclases */
 .instrumento:hover {
-  background-color: #d2691e; /* Chocolate */
-  color: white;
-  cursor: pointer;
+  background-color: #bcaaa4; /* Fondo más oscuro */
+  color: #ffffff; /* Texto blanco */
+  cursor: pointer; /* Cambia el cursor a una mano */
 }
 
 .instrumento:active {

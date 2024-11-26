@@ -1,6 +1,6 @@
 /* General */
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px; /* Tamaño base recomendado */
   margin: 0;
   padding: 0;
@@ -19,6 +19,8 @@ header {
 header h1 {
   margin: 0;
   font-size: 2.5rem; /* Tamaño grande para destacar */
+  font-family: "Poppins", sans-serif;
+  font-weight: 600; /* Asegura un estilo más grueso */
 }
 
 main {
@@ -48,19 +50,31 @@ main {
 .instrumento p {
   margin: 0.5rem 0;
   font-size: 1rem; /* Tamaño estándar para párrafos */
+  font-family: "Roboto", sans-serif;
+  font-weight: 300; /* Estilo más ligero */
 }
 
 /* Colores personalizados */
 .facil {
   background-color: #ffecb3; /* Amarillo claro */
+  font-size: 1rem;
+  font-family: "Roboto", sans-serif;
+  font-style: italic; /* Hace el texto cursivo */
 }
 
 .medio {
   background-color: #f5b24e; /* Naranja claro */
+  font-size: 1.1rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
 }
 
 .dificil {
   background-color: #ea896c; /* Rojo claro */
+  font-size: 1.2rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  /* text-transform: uppercase;  Convierte el texto en mayúsculas */
 }
 
 /* Pseudoclases */
